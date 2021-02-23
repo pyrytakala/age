@@ -36,6 +36,7 @@ Cancer
 
 Aging
 - Lifespan: Why We Age—and Why We Don't Have To
+- Andrew Steele book
 
 Genes and epigenetics
 - The Epigenetics Revolution
@@ -58,3 +59,7 @@ Viruses
 - https://studies.helsinki.fi/courses/degree-programme?degreeProgramme=hy-DP-114257281
 - https://studies.helsinki.fi/courses/degree-programme?degreeProgramme=hy-DP-114257542&page=1
 - https://www.helsinki.fi/en/admissions/degree-programmes/translational-medicine-masters-programme/studying/structure-content-and-courses
+
+
+# More
+- google image search for "aging related diseases over time"
