@@ -7,3 +7,9 @@ title: Signs of aging
 weaker immune system
 weaker bones
 slower reflexes
+wrinkles
+weakening senses (vision, hearing)
+muscle loss
+
+
+# 
