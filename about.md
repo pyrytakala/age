@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A blog about ageing.
+A blog about aging.
 
 <!-- ### More Information
 
